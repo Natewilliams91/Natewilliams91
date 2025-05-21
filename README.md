@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Nathaniel Herrera-Williams 👋
 
-<!--
-**Natewilliams91/Natewilliams91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Recent Computer Science Graduate from Acadia University  
+💻 Interested in Data Analysis, Web Development & Software Development  
+📫 Reach me at: natehw2@gmail.com | www.linkedin.com/in/nate-herrera-williams-45b674344
 
-Here are some ideas to get you started:
+## 🛠️ Tehcnical Skills
+- Python, Java, JavaScript, C
+- MongoDB, MySQL
+- React.js, Node.js, Express.js, Vue.js
+- Data Analysis, Machine Learning (beginner)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Featured Projects
+
+### 🏀 NBA Stats Analyzer  
+A Python and MongoDB project that analyzes NBA player stats and predicts future performance.  
+[GitHub Repo Link]
+
+### 🌐 Personal Portfolio Website  
+A simple, responsive React.js portfolio site deployed on Netlify.  
+[GitHub Repo Link] | [Live Demo Link]
+
+### 🗂️ Packet Tracer IoT Simulation  
+A secure smart home network simulation using Cisco Packet Tracer.  
+[GitHub Repo Link]
+
