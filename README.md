@@ -2,7 +2,7 @@
 
 🎓 Recent Computer Science Graduate from Acadia University  
 💻 Interested in Data Analysis, Web Development & Software Development  
-📫 Reach me at: natehw2@gmail.com | www.linkedin.com/in/nate-herrera-williams-45b674344
+📫 Reach me at: natehw2@gmail.com | www.linkedin.com/in/nate-herrerawilliams
 
 ## 🛠️ Tehcnical Skills
 - Python, Java, JavaScript, C
