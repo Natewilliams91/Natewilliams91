@@ -7,7 +7,7 @@
 ## 🛠️ Tehcnical Skills
 - Python, Java, JavaScript, C
 - MongoDB, MySQL
-- React.js, Node.js, Express.js, Vue.js
+- React.js, Node.js, Express.js, Vue.js, Angular.js
 - Data Analysis, Machine Learning (beginner)
 
 ## 📊 Featured Projects
