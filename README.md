@@ -18,8 +18,6 @@ A personalized full stack application that allows users to view various NBA stat
 
 ### 🗂️ Task Tracker
 A personalized web-based application for organizing schedules, allowing for the user to add tasks, remove tasks, update their progress, as well as visualize their schedule with a built in calendar feature.
-[GitHub Repo Link] 
 
 ### ✈️ Airline Booking System (DBMS)
 A full stack application built to display the functionalities of a developed database management system for booking and managing airline tickets.
-[GitHub Repo Link]
